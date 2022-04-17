@@ -2,4 +2,4 @@
 
 Enthusiast about mobile and web development.
 
-Currently working at Keylabs and learning Angular.
+Currently working at Kron Digital with Angular.
