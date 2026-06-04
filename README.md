@@ -39,14 +39,6 @@ Software Developer | Full Stack Developer
   <img src="https://komarev.com/ghpvc/?username=HelitonLima" alt="HelitonLima" />
 </p>
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HelitonLima&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelitonLima&layout=compact&theme=tokyonight"/>
-</p>
-
 ### 🎯 Current Interests
 
 - Software Architecture
